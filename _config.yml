@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Bimo Aji Widyantoro"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a geospatial enthusiast. This blog was created to record my thoughts and experiences"
+  bio    : "I am a geospatial enthusiast, just learn it but no mastery"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
